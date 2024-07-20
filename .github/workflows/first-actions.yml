@@ -1,4 +1,5 @@
-name: My First GitHub Actions by pratik
+name: My First GitHub Actions by pratik gote
+
 
 on: [push]
 
